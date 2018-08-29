@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Amal",
+      "email": "amal@mail.com",
+      "mobile": 123456789
+    },
+    {
+      "id": 2,
+      "name": "Bimal",
+      "email": "bimal@mail.com",
+      "mobile": 123456789
+    },
+    {
+      "id": 3,
+      "name": "Kamal",
+      "email": "kamal@mail.com",
+      "mobile": 123456789
+    },
+    {
+      "id": "4",
+      "name": "Hari",
+      "email": "hari@mail.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": "5",
+      "name": "Kumar",
+      "email": "kumar@mail.com",
+      "mobile": "123456789"
+    }
+  ]
+}
